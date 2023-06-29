@@ -7,12 +7,13 @@ print('Media: {:.1f}'.format(media))
 if media >= 7.0:
     print('Aluno aprovado.')
 
-elif media >= 5.0 and media < 6.9:
+elif media >= 5.0 and media <= 6.9:
     print('Aluno em exame.')
     #print('Nota do exame: ', end='')
-    notaExame = float(input('Nota do exame: '))
+    notaExame = float(input())
+    print('Nota do exame: {}'.format(notaExame))
     mediafinal = (notaExame + media)/2
-    if mediafinal >= 5.0:
+    if mediafinal >= 5.0:   
         print('Aluno aprovado.')
     elif mediafinal < 5.0:
         print('Aluno reprovado.')
