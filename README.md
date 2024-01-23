@@ -1,4 +1,4 @@
-# Soluções da Beecrowd
+# Beecrowd Solutions
 
 ![Logo da Beecrowd](https://github.com/Nathan-cardoso/beecrowd-solutions/blob/main/beecrowd-removebg-preview.png)
 
@@ -15,4 +15,19 @@ Esse repositório contém soluções de alguns problemas, porém, até o momento
 | --- | --- |
 | C | ![Desafios resolvidos](https://github.com/Nathan-cardoso/beecrowd-solutions/tree/main/c) |
 
+## Equipe
 
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Nathan-cardoso">
+        <img src="https://avatars.githubusercontent.com/u/100364030?v=4" width="100px;" alt="Foto de Nathan Cardoso no GitHub"/><br>
+        <sub>
+          <b>Nathan Cardoso</b>
+        </sub>
+      </a>
+    </td>
+    <td>
+
+  </tr>
+</table> 
