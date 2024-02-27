@@ -1,6 +1,8 @@
 # Beecrowd Solutions
 
-![Logo da Beecrowd](https://github.com/Nathan-cardoso/beecrowd-solutions/blob/main/beecrowd-removebg-preview.png)
+<p align="center">
+  <img src="https://github.com/Nathan-cardoso/beecrowd-solutions/blob/main/beecrowd-removebg-preview.png" alt="Logo do repositório">
+</p>
 
 
 O [beecrowd](https://www.beecrowd.com.br) é um site que fornece vários desafios para exercitar a lógica de programação. Existem desafios de diferentes níveis, desde problemas simples para iniciantes na programação até desafios complexos abordando estrutura de dados, onde o usuário é livre para escolher a linguagem de programação que deseja solucionar o problema. Esse repositório é destinado para resolver alguns desafios do site e praticar a lógica de programação.
