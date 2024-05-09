@@ -1,6 +1,6 @@
 def gcd(a, b):
-  ''' GCD (greatest commom divisor) trata-se de um algoritmo para encontrar o máximo divisor comum.
-      Esse algoritmo é conhecido como algoritmo de Euclides e para entender seu funcionamento e exemplos pesquise no link abaixo
+  ''' GCD (greatest commom divisor) It's an algorithm for finding the greatest common divisor.
+      This algorithm is known as Euclid's algorithm and to understand how it works and examples, search the link below.
       link: https://www.freecodecamp.org/portuguese/news/algoritmo-de-euclides-mdc-maximo-divisor-comum-explicado-com-exemplos-em-varias-linguagens/'''
   
   if b == 0:
@@ -8,7 +8,7 @@ def gcd(a, b):
   else:
     return gcd(b, (a % b))
   
-
+#Solução da questão 1028 - Figurinhas.
 
 numb_input = int(input())
 result = []
