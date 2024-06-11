@@ -14,6 +14,15 @@ int main(){
 
     unsigned int result_game[counter];
 
+    if(counter == 1){
+        printf("%u\n",game_board[0]);
+    }
+
+    else if(counter == 2){
+        printf("%u\n", game_board[0] + game_board[1]);
+    }
+    else{
+
     for(int j = 0; j < counter; j++){
 
         if(j == 0){
@@ -31,6 +40,8 @@ int main(){
         printf("%u\n", result_game[j]);
 
     }
+    }
+
 
     return 0;
 }
