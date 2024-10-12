@@ -1,17 +1,17 @@
  #Maior e Posição     
 
-valores = []
+value = []
 for i in range(100):
     valor = int(input())
-    valores.append(valor)
+    value.append(valor)
 
-maior = valores[0]
+bigger = value[0]
 index = 0
 for i in range(100):
-    if valores[i] > maior:
-        maior = valores[i]
+    if value[i] > bigger:
+        bigger = value[i]
         index = i+1
 
-print(maior)
+print(bigger)
 print(index)
     
